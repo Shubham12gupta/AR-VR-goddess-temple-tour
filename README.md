@@ -1,6 +1,6 @@
 # 360 tour built using A-Frame
 
-[Check it out!](https://shubham12gupta.github.io/aframe-360-tour/)
+[Check it out!](https://shubham12gupta.github.io/AR-VR-goddess-temple-tour/)
 
 String together a tour using 360&deg; panorama images.
 
